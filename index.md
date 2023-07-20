@@ -1,19 +1,20 @@
-# Welcome to Aatman Yoga
+# Aatman Yoga
 
+## Online Yoga Sessions
 
-Online Yoga Sessions
+Every day: 6:30AM US Eastern time / 4PM India time
 
-Every day at 6:30 AM US Eastern time / 4 PM India time
-
-[Join online from your browser or phone](https://meet.google.com/cxp-hmpb-jww)
+[Join from your browser or phone](https://meet.google.com/cxp-hmpb-jww)
 
 ![free yoga classes flyer](flyer.png)
 ---
 
-YouTube - [https://youtube.com/@yogatman](https://youtube.com/@yogatman)
+YouTube - [youtube.com/@yogatman](https://youtube.com/@yogatman)
 
-Instagram - [https://instagram.com/yog_aatman](https://instagram.com/yog_aatman)
+Instagram - [instagram.com/yog_aatman](https://instagram.com/yog_aatman)
 
-Facebook - [https://www.facebook.com/people/aatman/100092292200515/](https://www.facebook.com/people/aatman/100092292200515/)
+Facebook - [facebook.com/people/aatman/100092292200515/](https://www.facebook.com/people/aatman/100092292200515/)
 
-Telegram - [https://t.me/yog_aatman](https://t.me/yog_aatman)
+Telegram - [t.me/yog_aatman](https://t.me/yog_aatman)
+
+Web - [aatmanyoga.github.io](https://aatmanyoga.github.io/)
