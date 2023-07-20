@@ -2,11 +2,11 @@
 title: Aatman Yoga
 ---
 
-## Online Yoga Sessions
-
-Every day: 6:30AM US Eastern time / 4PM India time
+## Free Online Yoga Sessions
 
 ## [Join from your browser or phone](https://meet.google.com/cxp-hmpb-jww)
+
+Every day: 6:30AM US Eastern time / 4PM India time
 
 ![free yoga classes flyer](flyer.png)
 ---
