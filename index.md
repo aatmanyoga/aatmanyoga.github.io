@@ -4,7 +4,7 @@
 
 Every day: 6:30AM US Eastern time / 4PM India time
 
-[Join from your browser or phone](https://meet.google.com/cxp-hmpb-jww)
+## [Join from your browser or phone](https://meet.google.com/cxp-hmpb-jww)
 
 ![free yoga classes flyer](flyer.png)
 ---
