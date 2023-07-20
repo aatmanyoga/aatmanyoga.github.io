@@ -2,9 +2,13 @@
 title: Aatman Yoga
 ---
 
-## Free Online Yoga Sessions
+# Aatman Yoga
 
-## [Join from your browser or phone](https://meet.google.com/cxp-hmpb-jww)
+Aatman is promoting yoga worldwide through teaching the practice of yoga.
+
+## Free Online Yoga Sessions - [Join from your browser or phone](https://meet.google.com/cxp-hmpb-jww)
+
+[https://meet.google.com/cxp-hmpb-jww](https://meet.google.com/cxp-hmpb-jww)
 
 Every day: 6:30AM US Eastern time / 4PM India time
 
