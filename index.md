@@ -5,7 +5,7 @@ Online Yoga Sessions
 
 Every day at 6:30 AM US Eastern time / 4 PM India time
 
-Join Online: https://meet.google.com/cxp-hmpb-jww
+[Join Online from your browser or phone](https://meet.google.com/cxp-hmpb-jww)
 
 ![free yoga classes flyer](flyer.png)
 ---
