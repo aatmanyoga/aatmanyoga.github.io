@@ -1,4 +1,6 @@
-# Aatman Yoga
+---
+title: Aatman Yoga
+---
 
 ## Online Yoga Sessions
 
